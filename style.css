@@ -1,0 +1,80 @@
+body {
+ background: linear-gradient(#9a08dd 0%, #dd4c4f 40%, #7420d3
+  100%);
+}
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 80px;
+}
+.profileimage {
+  width: 200px;
+  height: 120px;
+}
+.profile h2 {
+  color: white;
+  font-style: italic;
+  transform: translateY(3px);
+}
+.profile h4 {
+  color: white;
+  font-style: italic;
+  transform: translateY(-10px);
+}
+.profile #span {
+  color: blue;
+}
+.biodata {
+  background: linear-gradient(#fffeff 0%, #ffffffd5 40%, #fdfdfd00 100%);
+  padding-bottom: 60px;
+  padding-top: 55px;
+}
+.achievement {
+  padding-top: 55px;
+}
+.row {
+  padding: 0px 20pxl;
+}
+.sd {
+  transform: translateY(60px);
+}
+.panah1 {
+  transform: translateY(-20px);
+}
+.panah2 {
+  transform: translateY(-60px);
+}
+.text-center3 {
+  transform: translateY(-40px);
+}
+.text-center4 {
+  transform: translateY(-40px);
+}
+.text-center5 {
+  transform: translateY(-77px);
+}
+.text-center6 {
+  transform: translateY(-77px);
+}
+#sma {
+  transform: translateY(-87px);
+}
+#smp {
+  transform: translateY(-50px);
+}
+#sd {
+  transform: translateY(-10px);
+}
+.footer {
+  background-color: #fff;
+  padding-bottom: 19px;
+}
+.contact a {
+  color: black;
+  font-size: 30px;
+}
+.watermark {
+  padding-top: 20px;
+}
